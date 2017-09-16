@@ -46,6 +46,7 @@ nav li.active a {
   margin: 2.8rem auto;
   padding: 1.3rem 0;
   width: 11.4rem;
+  transition: all 450ms ease 50ms;
 }
 
 .jumbotron-bike .btn:hover {
