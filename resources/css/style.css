@@ -1,12 +1,14 @@
 /* Universal styles */
 html {
   font-size: 14px;
+}
+
+body {
   font-family: "Open Sans", sans-serif;
 }
 
 /* Header styles */
 nav a {
-  font-family: "Open Sans", sans-serif;
   font-size: 1.1rem;
   font-weight: bold;
 }
