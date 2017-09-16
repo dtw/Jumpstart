@@ -19,6 +19,7 @@ nav li.active a {
 /* Jumobtron Styles */
 .jumbotron-bike {
   background-image: url(../images/jumbotron-bike.jpg );
+  background-position: center;
   text-align: center;
   padding: 11.85rem 0;
   color: white;
