@@ -38,3 +38,20 @@ nav li.active a {
   margin: 0 auto;
   max-width: 51.3rem;
 }
+
+.jumbotron-bike .btn {
+  text-shadow: none;
+  background-color: #399bd1;
+  box-shadow: 0 0 3px rgba(0,0,0,0.5);
+  margin: 2.8rem auto;
+  padding: 1.3rem 0;
+  width: 11.4rem;
+}
+
+.jumbotron-bike .btn:hover {
+  box-shadow: 0 0 12px rgba(0,0,0,0.9);
+}
+
+.jumbotron-bike .btn:active {
+  box-shadow: 0 0 0 rgba(0,0,0,0.5);
+}
