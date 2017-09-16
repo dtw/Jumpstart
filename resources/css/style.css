@@ -59,6 +59,12 @@ nav li.active a {
   box-shadow: 0 0 0 rgba(0,0,0,0.5);
 }
 
+@media only screen and (max-width:992px) {
+  .jumbotron-bike h1 {
+    font-size: 5.7rem;
+  }
+}
+
 /*Featured Project styles */
 h2 {
   color: #399bd1;
@@ -70,7 +76,6 @@ h2 {
 h3 {
   font-size: 1.3rem;
   font-weight: bold;
-  margin-top: 0px;
 }
 
 .categories h3 {
@@ -86,4 +91,10 @@ h3 {
   width: 100%;
   height: auto;
   display: block;
+}
+
+@media only screen and (min-width: 992px) {
+  h3 {
+    margin-top: 0px;
+  }
 }
