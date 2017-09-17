@@ -90,6 +90,7 @@ h3 {
   width: 100%;
   height: auto;
   display: block;
+  opacity: 0.5;
 }
 
 /* Removed margin on larger screens to align with img */
