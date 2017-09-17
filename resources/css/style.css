@@ -19,8 +19,7 @@ nav li.active a {
 }
 
 /* Jumobtron Styles */
-.jumbotron-bike {
-  background-image: url(../images/jumbotron-bike.jpg );
+.jumbotron {
   background-position: center;
   padding: 11.85rem 0;
   color: white;
@@ -30,12 +29,12 @@ nav li.active a {
   1px 1px 0 #000;
 }
 
-.jumbotron-bike h1 {
+.jumbotron h1 {
   font-family: Monoton;
   font-size: 7.1rem;
 }
 
-.jumbotron-bike p {
+.jumbotron p {
   margin: 0 auto;
   max-width: 51.3rem;
 }
