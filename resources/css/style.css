@@ -118,6 +118,6 @@ h3 {
 }
 
 .trouble p {
-  width: 42rem;
+  max-width: 42rem;
   margin: 0 auto;
 }
