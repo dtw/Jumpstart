@@ -104,3 +104,22 @@ h3 {
 .projects {
   padding-bottom: 5.85rem;
 }
+
+/* Trouble styles */
+.trouble {
+  background-color: #f3f3f3;
+  padding: 5.2rem 0;
+  text-align: center;
+}
+
+.trouble strong {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 1.4rem;
+}
+
+.trouble p {
+  width: 42rem;
+  margin: 0 auto;
+}
