@@ -93,6 +93,7 @@ h3 {
   display: block;
 }
 
+/* Removed margin on larger screens to align with img */
 @media only screen and (min-width: 992px) {
   .featured h3 {
     margin-top: 0px;
